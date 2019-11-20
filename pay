@@ -1,0 +1,9 @@
+Dim hours As Date
+Dim rate As Double
+
+Function pay(hours As Date, rate As Double) As Currency
+
+pay = (hours * 24) * rate
+
+End Function
+
