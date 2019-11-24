@@ -1,3 +1,5 @@
+
+'Note that this does not work right now. 
 Function payroll(time_in As Range, time_out As Range, rate As Double) As Currency
 
 Dim cell_1 As Date
