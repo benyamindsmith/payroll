@@ -13,5 +13,3 @@ Currently the functions need to be installed manually by creating modules in VBA
 The `=GET_PAY_BY_HOUR()` calculates an employee's wages owed based on his times in, times out and hourly rate. It takes in 3 arguments- the range of an employee's time in, time out and his hourly rate.
 
 
-
-
