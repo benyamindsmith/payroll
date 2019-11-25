@@ -1,2 +1,12 @@
 # payroll
-A set of excel functions for determining payroll
+
+The following is a package of excel functions that will be useful for speeding up the calculation of payroll. As of now (11/25/2019) there is only the `=GET_PAY_BY_HOUR()` function- which calculates an employee's wages owed based on his times in, times out and hourly rate.
+
+## Installing this package
+
+Currently the functions need to be installed manually by creating modules in VBA and running the code for each function in a seperate module.
+
+## Functions
+
+### `=GET_PAY_BY_HOUR()`
+
