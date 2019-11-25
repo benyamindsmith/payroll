@@ -21,6 +21,8 @@ The `=GET_PAY_BY_HOUR()` calculates an employee's wages owed based on his times 
 
 Using this function would be equivalent to writing the following formula:
 
-```VBA
-=
+```excel
+=(SUM(B2:B4) - SUM(A2:A4)) * 24 * C2
 ```
+
+This function handles the summation of the total hours and calculates the an employee's wages owed with a simple formula.
