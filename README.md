@@ -15,4 +15,6 @@ The `=GET_PAY_BY_HOUR()` calculates an employee's wages owed based on his times 
 
 <a href='https://github.com/benyamindsmith/payroll/tree/master/'><img src='	Capture_1.PNG' align="center" height="200" /></a>
 
+<a href='https://github.com/benyamindsmith/payroll/tree/master/'><img src='	Capture.PNG' align="center" height="200" /></a>
+
 <a href='https://github.com/benyamindsmith/payroll/tree/master/'><img src='	Capture2.PNG' align="center" height="200" /></a>
